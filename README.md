@@ -5,6 +5,6 @@ un mensaje de alerta en caso de no ser posible abrir el archivo.
 
 A continuación se muestra dos capturas de la ejecución del programa:
 
-https://raw.githubusercontent.com/DanielGuachamin/Contador_de_palabras_desde_un_archivo_txt/master/Ejecucion_ContadorPalabras_Parte1_GuachaminDaniel.PNG
+https://raw.githubusercontent.com/DanielGuachamin/Contador_de_palabras_desde_un_archivo_txt/master/Ejecucion_ContadorPalabras_Parte1_GuachaminDaniel.png
 
-https://raw.githubusercontent.com/DanielGuachamin/MultiplicacionDeMatrices/master/Ejecucion_ContadorPalabras_Parte2_GuachaminDaniel.PNG
+https://raw.githubusercontent.com/DanielGuachamin/MultiplicacionDeMatrices/master/Ejecucion_ContadorPalabras_Parte2_GuachaminDaniel.png
